@@ -1,5 +1,18 @@
-# 💫 About Me:
-<br>I am currently learning some technologies 💻<br>I love Video game music enthusiast and Videogames  🎮<br>lover the night and black coffee ☕<br>Ask me what you want 💬
+ 💫 About Me:
+<ul>
+ <li>I am currently learning some technologies 💻</li>
+ <li>I love Video game music enthusiast and Videogames🎮</li>
+  
+<br>![2b-nier-automata](https://github.com/user-attachments/assets/ab6fce28-9861-46e3-8ab5-4d5c710af635) </br>
+ <li>lover the night and black coffee ☕</li> 
+ <li>Ask me what you want 💬</li>
+</ul>
+ I'm learning laravel for web design
+
+
+
+
+
 
 
 ## 🌐 Socials:
@@ -20,5 +33,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jinalexdev&icon=1&color=1)](https://visitcount.itsvg.in)
+![322bef95e7e9a82a8b3df299a5b38b5b-Photoroom (1)](https://github.com/user-attachments/assets/acbddd32-a4c9-4b2e-8528-90b8f9db533e)
+<footer>
+  <p>Author:&copy; jinalex2025<br>
+
+</footer>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
